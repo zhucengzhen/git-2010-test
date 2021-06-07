@@ -10,5 +10,8 @@ class Git2010TestApplicationTests {
     void contextLoads() {
         System.out.println("--------");
     }
+    public static void main(String [] args){
+        int a=10;
+    }
 
 }

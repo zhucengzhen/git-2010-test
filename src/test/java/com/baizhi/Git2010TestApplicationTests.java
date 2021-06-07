@@ -13,5 +13,9 @@ class Git2010TestApplicationTests {
     public static void main(String [] args){
         int a=10;
     }
+    @org.junit.Test
+    void test(){
+        System.out.println("22222");
+    }
 
 }
